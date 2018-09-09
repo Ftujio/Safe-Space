@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ftujio/Safe-Space/issues"
   },
-  "homepage": "https://github.com/Ftujio/Safe-Space#readme"
+  "homepage": "https://github.com/Ftujio/Safe-Space#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
